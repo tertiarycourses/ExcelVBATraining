@@ -1,5 +1,5 @@
 # Visual Basic Application (VBA) for Excel Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Visual Basic Application (VBA) for Excel Training](https://www.tertiarycourses.com.sg/visual-basic-vba-excel-training.html) course. 
 
