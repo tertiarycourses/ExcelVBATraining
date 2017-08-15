@@ -6,6 +6,7 @@ These are the exercise files used for [Visual Basic Application (VBA) for Excel 
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/visual-basic-vba-excel-training.html
+https://www.tertiarycourses.com.my/visual-basic-vba-excel-training.html
 
 <p><strong>Module 1 Introduce Visual Basic for Applications (VBA)&nbsp;</strong></p>
 <ul>
